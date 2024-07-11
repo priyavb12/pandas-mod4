@@ -1,0 +1,32 @@
+
+						WRIITEN REPORT
+
+Summarizes the analysis: 
+
+1.Read the data using pd.read_csv
+
+2.The file is completely checked to understand the structure using df.head()
+
+3.Calculations made like average, percentage, passing rate, overall performance.
+
+4.df.groupby() for particular student or school to find specific column, to group data and calculate
+
+5.Comparison of school performance. Identifying top school.
+
+6.pd.cut used to slice the values. 
+
+7.Data cleaning is done using .sort_values to find overall passing.
+
+8.Analyze how school size and type (charter vs. district) affect academic performance.
+
+
+
+Draws two correct conclusions or comparisons from the calculations:
+
+1. By analyzing the different scores such as math, reading, passing rates between different schools , best      performances of each school can be identified.
+
+2. This helps in improvising the school performance wherever needed.
+
+3. sometimes school type and size also affects the school performance.
+
+   So this analysis helps in understanding the relationship between performance and school size and type.
